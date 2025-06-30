@@ -74,5 +74,6 @@ dmypy.json
 .env
 
 # Custom output files
-new-blog-post.md
-ReGi/
+.claude/
+CLAUDE.md
+docs/
